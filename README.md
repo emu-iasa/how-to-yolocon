@@ -5,7 +5,8 @@
 This doc serves as a skeleton template on how to put on an awesome conference
 
   ## What is Yolocon?
- - YoloCon is a 100% student led security-focused conference and fundraiser for the Eastern Michigan University Information Assurance Student Association.
+- YoloCon stand for: Ypsilanti Online Learning Opportunities Conference
+- YoloCon is a 100% student led security-focused conference and fundraiser for the Eastern Michigan University Information Assurance Student Association.
  
  ### There are **four** primary goals of this conference:
 1. Public Speaking! 📢
