@@ -1,2 +1,2 @@
-# how-to-yolocon
-How the average flow of Yolocon goes, what it is, and how to set it up 
+# How to Yolocon 
+I'm writing this right now :D 
