@@ -22,9 +22,9 @@ This doc serves as a skeleton template on how to put on an awesome conference
 4. JOBS! 
 	 - Before Yolocon - the IASA collects resumes of **ALL** interested students and puts them in a **resume database**, given to all organizations who decide to help sponsor the club! (Food is a sponsorship :))
 
-**Vendors and sponsors - Please no sales pitches. Your audience is students and individuals trying to learn about concepts, not products. Talking about the concepts, technology, theories, and issues behind a product you/your org sells is totally fine, but this isn't the place to try and get customers :) Thank you!!*
+**Vendors and sponsors - Please no sales pitches. Your audience is students and individuals trying to learn about concepts, not products. Talking about the concepts, technology, theories, and issues behind a product you/your org sells is totally fine, but this isn't the place to try and get customers 😄 Thank you!!*
 
-** *Ex. Your org sells email spam prevention appliances. Talk about what DMARC security looks like, how you can create logic to detect / prevent spam, why spam + phishing is an issue. Not how awesome your product specifically is :smile:)*
+** *Example: Your org sells email spam prevention appliances. Talk about what DMARC security looks like, how you can create logic to detect / prevent spam, why spam + phishing is an issue. Not how awesome your product specifically is :smile:)*
 
 ##  What a good conference needs
 
