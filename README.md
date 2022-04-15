@@ -1,4 +1,5 @@
 
+
 #  How to Yolocon
 
 This doc serves as a skeleton template on how to put on an awesome conference
@@ -31,8 +32,14 @@ This doc serves as a skeleton template on how to put on an awesome conference
 	 - Fortunately, EMU has a brand new facility for security! Book rooms well in advance (4-5 months, **AS EARLY AS POSSIBLE**) 
  2. Killer schedule ⏰ 
 	 - We have 3 different talks going on at once, each in their own 'Track' 
-3. Food 🍴
+	 - Scheduling is key. Try to make sure tracks don't overlap too aggressively
+	 - Try to have talks in different tracks end at the same time so that everyone has someone listening in on the talk, and some time to catch a break and socialize in-between talks
+	
+2. Food 🍴
 	- Not much to explain here. Nobody hates on a coffee + bagels breakfast and a catered lunch :ok_hand: (We love you Dominos!! 🍕)
 
+3. SWAG :sunglasses: 
+	- Free t-shirt / stickers goes a long way. 
 
-
+4. SUPPORT :muscle:
+	- You're not gonna do this alone. Get a group of individuals to help with setup and teardown. 
