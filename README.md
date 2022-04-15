@@ -21,7 +21,7 @@ This doc serves as a skeleton template on how to put on an awesome conference
 	- The security world is a lot smaller than we give it credit for. Meeting people and getting the chance to talk to industry professionals is extremely valuable, especially for entry level students 
 
 4. JOBS! 
-	 - Before Yolocon - the IASA collects resumes of **ALL** interested students and puts them in a **resume database**, given to all organizations who decide to help sponsor the club! (Food is a sponsorship :))
+	 - Before Yolocon - the IASA collects resumes of **ALL** interested students and puts them in a **resume database**, given to all organizations who decide to help sponsor the club! (Helping get food into the conference IS also sponsoring 😄)
 
 **Vendors and sponsors - Please no sales pitches. Your audience is students and individuals trying to learn about concepts, not products. Talking about the concepts, technology, theories, and issues behind a product you/your org sells is totally fine, but this isn't the place to try and get customers 😄 Thank you!!*
 
