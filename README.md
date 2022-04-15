@@ -7,15 +7,15 @@ This doc serves as a skeleton template on how to put on an awesome conference
  - YoloCon is a 100% student led security-focused conference and fundraiser for the Eastern Michigan University Information Assurance Student Association.
  
  ### There are **four** primary goals of this conference:
-1. Public Speaking! 
+1. Public Speaking! 📢
 	- We get students an opportunity to talk about projects and topics they are passionate about in front of peers, leaders, and industry professionals 
 
-2. Learning! 
+2. Learning! 🎓
 	- Security is a wildly broad field. The only limits on topics are: 
 		- **NO SALES PITCHES*** (see below) 
 		- The subject needs to be related to the cyber security / IT space! 
 	
-3. Networking! 
+3. Networking! 🌐
 	- The security world is a lot smaller than we give it credit for. Meeting people and getting the chance to talk to industry professionals is extremely valuable, especially for entry level students 
 
 4. JOBS! 
@@ -27,11 +27,11 @@ This doc serves as a skeleton template on how to put on an awesome conference
 
 ##  What a good conference needs
 
-1. Rooms. Nice Rooms 
+1. Rooms. Nice Rooms 🏫
 	 - Fortunately, EMU has a brand new facility for security! Book rooms well in advance (4-5 months, **AS EARLY AS POSSIBLE**) 
- 2. Killer schedule. 
+ 2. Killer schedule ⏰ 
 	 - We have 3 different talks going on at once, each in their own 'Track' 
-3. Food 
+3. Food 🍴
 	- Not much to explain here. Nobody hates on a coffee + bagels breakfast and a catered lunch :ok_hand: (We love you Dominos!! 🍕)
 
 
